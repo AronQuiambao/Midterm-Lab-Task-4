@@ -7,6 +7,11 @@
 
 ---
 
+### 🎯 Agenda:
+- Act 1: using Dictionary Collection for Restaurant menu that accepts user input and calculates total order
+
+---
+
 <p align="center">
   <a href="asset/Midterm Lab Task 1 - Quiambao_AronDaniel_B.pdf" target="_blank">
     <button style="
